@@ -25,7 +25,7 @@ type (
 	}
 )
 
-const DataUrl = "https://raw.githubusercontent.com/Stefanuk12/RoProPatcher/proxy/data.json"
+const DataUrl = "https://raw.githubusercontent.com/nenonenotj008/RoProPatcher/proxy/data.json"
 
 var (
 	proxyData *DataResponse
